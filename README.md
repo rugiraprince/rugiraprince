@@ -1,7 +1,7 @@
 ### Hi there 
 ### welcome to my profile 
 
-![DDB03B95-E2D8-4432-8D5B-1A790AF46A0F](https://github.com/rugiraprince/rugiraprince/assets/35040023/7ea699c2-bff0-4162-bb68-d3c1ce672179)
+![rugiraprince](rugiraprince.jpeg)
 
 ###EDUCATION
 - I’m currently learning full stuck web developer at HYF

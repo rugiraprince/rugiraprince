@@ -1,9 +1,9 @@
 ### Hi there 
-### welcome to my profile 
+# welcome to my profile 
 
 ![rugiraprince](rugiraprince.jpeg)
 
-###EDUCATION
+### EDUCATION
 - I’m currently learning full stuck web developer at HYF
   JUNE 2018
 HIGH SCHOOL DIPLOMA AT UGEAFI
